@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.4.3b.09.26.4458">
+    <title>RFID</title>
+    <instances>
+        <instance moduleIdRef="6674b4a5ce3c8d4f30629a229b737e97" modelIndex="1177" path="/Users/mwilliamson/.config/Fritzing/parts/user/RFID Reader__0a4bb21956268f68b01d25c56d2f256d.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>
